@@ -42,4 +42,5 @@ driver.close()
 #driver.quit() / selenium un kullandığı tüm pencereleri kapatır
 
 ## --- inputlara giriş
-
+ 
+# Yemi test buraya yazılacak
